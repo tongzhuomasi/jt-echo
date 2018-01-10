@@ -42,7 +42,6 @@ Vue.component('my-sheet', sheet)
 Vue.component('my-banner', banner)
 Vue.component('my-list', list)
 
-/* eslint-disable no-new */
 new Vue({
     el: '#app',
     router,
@@ -50,3 +49,5 @@ new Vue({
     template: '<App/>',
     components: { App }
 })
+
+console.log('!')
