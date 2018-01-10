@@ -2,7 +2,7 @@
   "name": "jt-echo",
   "version": "2.0.0",
   "description": "A Vue.js project",
-  "author": "uncleLian <771674109@qq.com> https://github.com/uncleLian",
+  "author": "jt <609403618@qq.com> https://github.com/tongzhuomasi",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
